@@ -1,0 +1,7 @@
+a. The processing units in the GPU are designed to run calculations on each pixel in a rate of 30- 60 times per second. Conditions add complexity to the code and can slow down processing speed, thus lowering FPS.
+
+b.
+ The "step" function: if(x>=y), step(y, x)
+The "saturate" function: if(x>0 && x<1) return x
+, saturate(x) returns 0 if x < 0, returns 1 if x > 1, returns x if 0<x<1
+The "clamp" function: if(x>0 && x<1), clamp(x,0,1)

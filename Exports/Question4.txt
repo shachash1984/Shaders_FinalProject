@@ -1,0 +1,7 @@
+Maps are used to provide information about a specific graphic quality by eliminating irrelevant details
+
+Normal map: shows higher areas in white and lower areas in blue (true for each pixel in the texture)
+
+Bump map: uses grayscale values of an image to create variations in pixel positions of the texture
+
+Reflection map: used to represent a reflection of the surrounding environment of the texture
